@@ -1,0 +1,22 @@
+# Default deny. Only reviewed security package files may be staged.
+*
+!/.githooks/
+!/.github/
+!/.github/workflows/
+!/LICENSES/
+!/contracts/
+!/evidence/
+!/scripts/
+!/.githooks/pre-push
+!/.github/workflows/publication.yml
+!/.gitignore
+!/LICENSES/D20-MIT.txt
+!/LICENSES/OpenZeppelin-MIT.txt
+!/PUBLICATION.json
+!/README.md
+!/SECURITY.md
+!/contracts/ArcRaffle_Remix.sol
+!/contracts/PickACard_Remix.sol
+!/evidence/pickcard-v4-source-verification.json
+!/evidence/raffle-v6-mainnet-deployment.json
+!/scripts/verify_publication.py

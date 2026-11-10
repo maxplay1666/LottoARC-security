@@ -1,0 +1,13 @@
+{
+  "checkedAtUtc": "2026-10-27T17:25:59.5930455Z",
+  "address": "0xacac0e9167113832743d2d2b6f8cdd733c570962",
+  "isVerified": true,
+  "fullyVerified": true,
+  "partiallyVerified": false,
+  "compiler": "v0.8.28+commit.7893614a",
+  "optimizerRuns": 200,
+  "evmVersion": "cancun",
+  "sourceExactMatch": true,
+  "verifiedAt": "2026-10-27T17:16:36.514646Z",
+  "liveGameTest": "Not performed; user will test after Treasury activation"
+}

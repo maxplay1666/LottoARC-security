@@ -1,0 +1,12 @@
+{
+  "preparedOn": "2026-11-10",
+  "purpose": "Public contract security review; website source excluded",
+  "sha256": {
+    "LICENSES/D20-MIT.txt": "bfdc94eef4cfbec12a9ed47bb406c8125cf4c306facf7b8d92db58f133b1a703",
+    "LICENSES/OpenZeppelin-MIT.txt": "3f23fb5039b202274940dc39340f5fccd92b84713dee280ad53435be1b8895cd",
+    "contracts/ArcRaffle_Remix.sol": "d7f101ef99696561757af8e54b263d07438fb9ec3a7df0644042dbe613d70423",
+    "contracts/PickACard_Remix.sol": "39fcfd6e3958660f7e44e8c015e6a31cfc30d8566d27fc79a888203f6a0da3e1",
+    "evidence/pickcard-v4-source-verification.json": "b97249f9a5c0faf542e0feafd2d17884e62944e4e05c05b831803dea48893e5c",
+    "evidence/raffle-v6-mainnet-deployment.json": "d9f36635d03a5b6442433fa3c289e0590cc7029e3d1b6c5ff9879b383b67440e"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "checkedAt": "2026-10-28T04:52:29.661Z",
+  "chainId": 5042,
+  "transaction": "0x61fcfea79045d94f196eaa4f6a093e9661f113ef1c6cc2605e6f8b89a85e28d4",
+  "address": "0xdbd36ff02dB7621000cF4A20F49F006472661d41",
+  "deployer": "0x3d2b1177305fF33E2384F3e059B9dDE10147ABD5",
+  "block": "28251582",
+  "status": "success",
+  "gasUsed": "3869358",
+  "creationExactMatch": true,
+  "creationExecutableMatch": true,
+  "runtimeExactMatch": true,
+  "runtimeExecutableMatch": true,
+  "constructorMatches": true,
+  "observed": {
+    "CONTRACT_VERSION": "6",
+    "vrfCoordinator": "0xd20da057469C45928912d983F45790C41e290571",
+    "TREASURY": "0x3d2b1177305fF33E2384F3e059B9dDE10147ABD5",
+    "POOL_OWNER_FEE_BPS": "500",
+    "TREASURY_FEE_BPS": "93",
+    "MAX_ACTIVE_POOLS": "20",
+    "nextPoolId": "1",
+    "activePoolCount": "0"
+  },
+  "livePaidDrawTest": "not yet verified",
+  "deploymentRequestedByUser": true
+}
